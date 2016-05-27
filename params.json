@@ -1,1 +1,7 @@
-{"name":"Aiki-base.at","tagline":"mainpage ","body":"##[Home](https://aiki-base.at/drupal/)\r\n##[Cloud](https://aiki-base.at/owncloud7/owncloud/)\r\n##[Wiki](https://aiki-base.at/mediawiki/index.php/Beschlussbuch)\r\n##[Email](https://aiki-base.at/roundcube/)\r\n-------------------------------\r\n##[PGP](https://www.gnupg.org/download/iconv.html)\r\n##[Let's Encrypt](https://letsencrypt.org/)\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Aiki-base.at",
+  "tagline": "mainpage ",
+  "body": "##[Home](https://aiki-base.at/drupal/)\r\n##[Cloud](https://aiki-base.at/owncloud7/owncloud/)\r\n##[Wiki](https://aiki-base.at/mediawiki/index.php/Beschlussbuch)\r\n##[Email](https://aiki-base.at/roundcube/)\r\n-------------------------------\r\n##[PGP](https://www.gnupg.org/download/iconv.html)\r\n##[Let's Encrypt](https://letsencrypt.org/)\r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
